@@ -11,6 +11,7 @@ The BAMAZON app takes in orders from customers and dedeucts stock from the store
     • JavaScript
     • Node.js
     • npm
+    • MySQL
 
 ## Gifs
 
