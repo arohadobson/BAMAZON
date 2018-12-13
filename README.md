@@ -42,4 +42,4 @@ The BAMAZON app takes in orders from customers and dedeucts stock from the store
 
 - When a supervisor selects `Create New Department`, the app will run through a series of questions before adding another value to our table.
 
-![Bamazon Runthrough| Adding a Department](http://www.giphy.com/gifs/w9d4CnfGCtRnm6k3QW)
+![Bamazon Runthrough| Adding a Department](https://media.giphy.com/media/w9d4CnfGCtRnm6k3QW/giphy.gif)
