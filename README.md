@@ -2,10 +2,6 @@
 
 Bamazon is a command line app that allows users to enter as either a customer, manager, or supervisor. Each role has different interactions with the MySQL database that holds the information.
 
-## About
-
-The BAMAZON app takes in orders from customers and dedeucts stock from the store's inventory.
-
 ## Code Languages
 
     • JavaScript
